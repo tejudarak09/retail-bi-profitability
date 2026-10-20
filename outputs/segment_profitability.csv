@@ -1,0 +1,4 @@
+segment,customers,orders,total_sales,total_profit,profit_margin_pct
+Consumer,409,2586,1161401.34,134119.21,11.55
+Corporate,236,1514,706146.37,91979.13,13.03
+Home Office,148,909,429653.15,60298.68,14.03

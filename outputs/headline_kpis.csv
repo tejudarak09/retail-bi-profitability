@@ -1,0 +1,2 @@
+total_sales,total_profit,profit_margin_pct,order_count,order_lines,customer_count,product_count,units_sold,avg_order_value,avg_discount,first_order_date,last_order_date
+2297200.86,286397.02,12.47,5009,9994,793,1862,37873,458.61,0.1562,2014-01-03,2017-12-30

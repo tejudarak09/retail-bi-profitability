@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+retail_bi.db
+*.pbix
+.DS_Store

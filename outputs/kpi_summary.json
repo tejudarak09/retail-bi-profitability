@@ -1,0 +1,74 @@
+{
+  "best_category_by_profit": {
+    "category": "Technology",
+    "total_profit": 145454.95,
+    "total_sales": 836154.03
+  },
+  "best_region_by_profit": {
+    "profit_margin_pct": 14.94,
+    "region": "West",
+    "total_profit": 108418.45,
+    "total_sales": 725457.82
+  },
+  "biggest_loss_making_product": {
+    "product_name": "Cubify CubeX 3D Printer Double Head Print",
+    "total_profit": -8879.97,
+    "total_sales": 11099.96
+  },
+  "discount_impact": {
+    "no_discount": {
+      "order_lines": 4798,
+      "profit_margin_pct": 29.51,
+      "total_profit": 320987.6,
+      "total_sales": 1087908.47
+    },
+    "over_50pct": {
+      "order_lines": 856,
+      "profit_margin_pct": -119.2,
+      "total_profit": -76559.05,
+      "total_sales": 64228.74
+    }
+  },
+  "headline_kpis": {
+    "avg_discount": 0.1562,
+    "avg_order_value": 458.61,
+    "customer_count": 793,
+    "first_order_date": "2014-01-03",
+    "last_order_date": "2017-12-30",
+    "order_count": 5009,
+    "order_lines": 9994,
+    "product_count": 1862,
+    "profit_margin_pct": 12.47,
+    "total_profit": 286397.02,
+    "total_sales": 2297200.86,
+    "units_sold": 37873
+  },
+  "top_customer_by_sales": {
+    "customer_name": "Sean Miller",
+    "total_profit": -1980.74,
+    "total_sales": 25043.05
+  },
+  "top_product_by_profit": {
+    "product_name": "Canon imageCLASS 2200 Advanced Copier",
+    "total_profit": 25199.93,
+    "total_sales": 61599.82
+  },
+  "worst_region_by_margin": {
+    "profit_margin_pct": 7.92,
+    "region": "Central",
+    "total_profit": 39706.36
+  },
+  "worst_subcategory_by_profit": {
+    "category": "Furniture",
+    "profit_margin_pct": -8.56,
+    "sub_category": "Tables",
+    "total_profit": -17725.48,
+    "total_sales": 206965.53
+  },
+  "yearly_sales": {
+    "2014": 484247.5,
+    "2015": 470532.51,
+    "2016": 609205.6,
+    "2017": 733215.26
+  }
+}
